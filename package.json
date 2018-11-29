@@ -1,5 +1,5 @@
 {
-  "name": "react-dates",
+  "name": "@jayswain/react-dates",
   "version": "18.2.2",
   "description": "A responsive and accessible date range picker component built with React",
   "main": "index.js",
@@ -42,7 +42,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/airbnb/react-dates.git"
+    "url": "git+https://github.com/jayswain/react-dates.git"
   },
   "author": "Maja Wichrowska <maja.wichrowska@airbnb.com>",
   "license": "MIT",
@@ -137,5 +137,10 @@
       "mocha",
       "webpack"
     ]
+  },
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
   }
 }
